@@ -17,9 +17,9 @@ The virtual machine was provisioned with the following software:
 
 Other software included:
 
-* Composer Packages Manager, this is a tool for dependency management in PHP.
-* Git, this is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
-* PHPMyAdmin, this is a free software tool written in PHP, intended to handle the administration of MySQL over the Web. phpMyAdmin supports a wide range of operations on MySQL and MariaDB.
+* Composer Packages Manager.
+* Git.
+* PHPMyAdmin.
 
 ### Setup ###
 
