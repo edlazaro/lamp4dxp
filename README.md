@@ -1,6 +1,6 @@
-# Ubuntu Virtual Machine #
+# Ubuntu Virtual Machine # 
 
-This is a very flexible virtual machine that allows you to create a simple Ubuntu Server 20.04 LTS (Focal Fossa) for LAMP stack developers which also includes many related modern development tools.
+This is a very flexible virtual machine that allows you to create a simple Ubuntu Server 20.04 LTS (Focal Fossa) for LAMP stack developers which also includes many related modern development tools. 
 
 Please read all the document before start using the project.
 
@@ -67,8 +67,11 @@ For microservice heavy environments, Docker can be attractive because you can ea
 
 Both Vagrant and Docker have a vast library of community-contributed "images" or "boxes" to choose from.
 
-### License ###
+### MIT License ###
+#### Copyright (c) 2021 Esteban Spina ####
 
-#### Creative Commons Attribution 4.0 International ####
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-Except where otherwise noted, content on this Github repository is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
