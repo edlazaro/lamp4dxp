@@ -1,6 +1,6 @@
-# Ubuntu Virtual Machine # 
+# Ubuntu Virtual Machine #
 
-This is a very flexible virtual machine that allows you to create a simple Ubuntu Server 20.04 LTS (Focal Fossa) for LAMP stack developers which also includes many related modern development tools. 
+This is a very flexible virtual machine that allows you to create a simple Ubuntu Server 20.04 LTS (Focal Fossa) for LAMP stack developers which also includes many related modern development tools.
 
 Please read all the document before start using the project.
 
@@ -36,14 +36,14 @@ $ vagrant up
 
 Once ready, you can test it by opening following URL on your browser:
 ```
-http://192.168.80.80/
-https://192.168.80.80/ (secure)
+http://192.168.62.101/
+https://192.168.62.101/ (secure)
 ```
 
 If you want to manage the MySQL database:
 ```
-http://192.168.80.80/phpmyadmin/
-https://192.168.80.80/phpmyadmin/ (secure)
+http://192.168.62.101/phpmyadmin/
+https://192.168.62.101/phpmyadmin/ (secure)
 
 Database Name : development
 User : root
